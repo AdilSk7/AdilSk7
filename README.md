@@ -283,26 +283,27 @@ Designed a modular Tic-Tac-Toe system demonstrating **encapsulation, abstraction
 
 ---
 
-# 📊 GitHub Stats
+# 💡 What I Bring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdilSk7&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSk7&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
+### ☕ Backend Development
+Build backend services and REST APIs using Java, Node.js, Express.js and FastAPI, with authentication, business logic and database integration.
 
----
+### ⚛️ Full-Stack Development
+Develop complete web applications using React, JavaScript/TypeScript, backend APIs and databases, from UI to deployment.
 
-# 📈 Currently Exploring
+### 🤖 AI & Machine Learning
+Build practical AI/ML applications using CNNs, TensorFlow, RAG, embeddings and LLM APIs to solve real-world problems.
 
-```text
-☕ Advanced Java & Spring Boot
-🏗️ System Design & Distributed Systems
-☁️ Cloud & DevOps
-🤖 Generative AI & RAG
-🧠 Machine Learning
-🔐 Application Security
-⚡ Scalable Backend Architecture
-```
+### 🗄️ Database Engineering
+Work with MongoDB, MySQL and Firebase/Firestore for data modeling, CRUD operations, authentication and application persistence.
+
+### ☁️ Deployment & Cloud
+Deploy frontend and backend applications using Vercel, Firebase and Render, with experience working with Docker, Linux and CI/CD concepts.
+
+### 🏗️ Software Design
+Apply OOP, SOLID principles, modular design, REST architecture and Low-Level Design to build maintainable and extensible applications.
+
+
 
 ---
 
