@@ -24,7 +24,7 @@ I enjoy turning real-world problems into **scalable applications** using modern 
 ## 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql" />
 </p>
 
 **Java** · **Python** · **JavaScript** · **TypeScript** · **HTML** · **CSS** · **SQL**
