@@ -27,7 +27,7 @@ I enjoy turning real-world problems into **scalable applications** using modern 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css,sql" />
 </p>
 
-**Java** · **Python** · **JavaScript** · **TypeScript** · **C++** · **HTML** · **CSS** · **SQL**
+**Java** · **Python** · **JavaScript** · **TypeScript** · **HTML** · **CSS** · **SQL**
 
 ---
 
