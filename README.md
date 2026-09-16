@@ -131,7 +131,8 @@ Built an AI platform that parses resumes, matches candidates against job descrip
 
 **Deployment:** Frontend → Vercel | Backend → Render | Database → Firebase Firestore
 
-🔗 **[View Project](https://github.com/AdilSk7/CareerLens-AI)**
+🔗 **[Live Demo](https://career-lens-ai-eosin.vercel.app/)**
+🔗 **[Source Code](https://github.com/AdilSk7/CareerLens-AI)**
 
 ---
 
