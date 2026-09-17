@@ -1,4 +1,4 @@
-<img width="1800" height="900" alt="9070324cdfc07c68d60eed0c39e77573" src="https://github.com/user-attachments/assets/80e51cd6-c8a8-4c73-a1d4-30427d108aeb" />
+<img width="1920" height="732" alt="shaik_adil_github_animated_banner" src="https://github.com/user-attachments/assets/d2a9f8e8-aa52-40a8-b971-c412fa6de800" />
 # 👋 Hi, I'm Adil Shaik
 
 ### 🚀 Software Developer | Full-Stack Developer | AI/ML Enthusiast
