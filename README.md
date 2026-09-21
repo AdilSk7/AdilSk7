@@ -9,6 +9,12 @@ I enjoy turning real-world problems into **scalable applications** using modern 
 
 ---
 
+### 🚀 My Portfolio
+
+Explore my projects, technical skills, experience, and certifications.
+🌐 **[Visit My Portfolio →](https://shaik-adil-portfolio.vercel.app)**
+---
+
 ## 🧑‍💻 About Me
 
 * 🔭 Building **Full-Stack & AI-powered applications**
