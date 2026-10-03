@@ -11,10 +11,8 @@ I enjoy turning real-world problems into **scalable applications** using modern 
 
 ### 🚀 My Portfolio
 
-Explore my projects, technical skills, experience, and certifications.
-<a href="https://shaik-adil-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-  🌐 Visit My Portfolio →
-</a>
+Explore my projects, technical skills, experience, and certifications
+🌐 **[Visit My Portfolio →](https://shaik-adil-portfolio.vercel.app)**
 ---
 
 ## 🧑‍💻 About Me
