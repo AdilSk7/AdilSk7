@@ -201,6 +201,22 @@ Developed CNN and VGG16 models to classify ECG images and explored **hyperparame
 
 ---
 
+## 🛍️ Ethniq Fashion Store
+
+**Modern e-commerce platform for ethnic & modern fashion**
+
+`React` `Vite` `Firebase` `Firestore` `React` `Router` `CSS` `JavaScript`
+
+Built a responsive e-commerce web application with product browsing, cart management, customer authentication, wishlists, admin dashboard, store analytics, and WhatsApp-based order enquiries.
+
+**Deployment:** Firebase Hosting
+
+🔗 **[Live Demo](https://dakshayani-shopping-mall.web.app/)**
+🔗 **[Source Code](https://github.com/AdilSk7/Ethniq-Fashion-Store)**
+
+
+---
+
 ## 🧠 Brain Tumor Detection
 
 **AI-powered MRI classification system**
@@ -212,18 +228,6 @@ Built a Flask-based application that accepts MRI images and uses a trained deep 
 **Deployment:** Render
 
 🔗 **[View Project](https://github.com/AdilSk7/Brain-Tumor-Detection)**
-
----
-
-## 🎮 Tic-Tac-Toe — Low-Level Design
-
-**Java LLD & OOP case study**
-
-`Java` `OOP` `SOLID` `Design Patterns` `UML`
-
-Designed a modular Tic-Tac-Toe system demonstrating **encapsulation, abstraction, inheritance, polymorphism, interfaces and extensible game logic**.
-
-🔗 **[View Project](https://github.com/AdilSk7/Tic-Tac-Toe)**
 
 ---
 
